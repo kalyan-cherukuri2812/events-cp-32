@@ -1,0 +1,56 @@
+.bg-div {
+  height: 100vh;
+  background-size: cover;
+  padding: 10px;
+}
+.no-activate-event {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: #323f4b;
+  font-weight: 500;
+  font-size: 16px;
+}
+.registered {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+}
+.registered-img {
+  width: 30%;
+}
+.registrations-closed {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.registrations-closed-img {
+  width: 60%;
+}
+.yet-to-register {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.yet-to-register-img {
+  width: 70%;
+}
+.register-btn {
+  width: 100%;
+  background-color: #0967d2;
+  border: 0px;
+  color: white;
+  font-size: 16px;
+  font-family: roboto;
+  border-radius: 10px;
+  padding: 15px;
+}
